@@ -1,4 +1,4 @@
-###Manufacturing Downtime Analysis 🚧
+# Manufacturing Downtime Analysis 🚧
 
 This project is a Power BI dashboard developed to analyze manufacturing downtime, identify the key causes, and provide actionable insights for improving operational efficiency.
 
